@@ -1,0 +1,5 @@
+export const REQUEST = 'REQUEST'
+export const SUCCESS = 'SUCCESS'
+export const FAILURE = 'FAILURE'
+export const ADD_LIKE = 'ADD_LIKE'
+export const ADD_DISLIKE = 'ADD_DISLIKE'
